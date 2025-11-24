@@ -1,0 +1,5 @@
+{
+  "name": "Mosquito Mayhem",
+  "description": "A 3D-style browser arcade game where you swat mosquitoes and avoid friendly insects.",
+  "requestFramePermissions": []
+}
